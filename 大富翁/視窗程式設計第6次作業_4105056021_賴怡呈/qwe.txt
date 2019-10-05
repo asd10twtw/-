@@ -1,0 +1,18 @@
+land: 0-this user don't have this land ; 1-this user have this land ; 2-this user have a house ; 3-have two houses ; 4-have three houses ; 
+user: 0-玩家1  1-玩家2  2-玩家3  3-玩家4
+user step   money       site land event
+   0   3     4865      Wutai    1 買了這塊地，花了135
+   1   5     4765      Yanpu    1 買了這塊地，花了235
+   2   1     4950     Gaoshu    1 買了這塊地，花了50
+   0   2     4724      Yanpu    0 付了141給player2
+   1   4     4596     Linluo    1 買了這塊地，花了310
+   2   5     4470   Pingtung    1 買了這塊地，花了480
+   0   5     4374      Majia    1 買了這塊地，花了350
+   1   6     4116   Chaojhou    1 買了這塊地，花了480
+   2   1     4060  Changjhih    1 買了這塊地，花了410
+   0   4     4024     Wandan    1 買了這塊地，花了350
+   1   4     3981    Nanjhou    1 買了這塊地，花了135
+   2   1     3895      Neipu    1 買了這塊地，花了165
+   0   2     3714    Kanding    1 買了這塊地，花了310
+   1   2     4481     chance    0 抽了一張機會，事件為:到Chaojhou遇到李安，要到簽名，轉手獲利500元
+   2   6     3685     Wandan    0 付了210給qwe

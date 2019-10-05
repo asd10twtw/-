@@ -1,0 +1,74 @@
+  視窗程式設計第6次作業_4105056021_賴怡呈.addmoney.resources - Embedded, ContainedInManifestFile, 
+  視窗程式設計第6次作業_4105056021_賴怡呈.move.resources - Embedded, ContainedInManifestFile, 
+  視窗程式設計第6次作業_4105056021_賴怡呈.MyForm.resources - Embedded, ContainedInManifestFile, 
+  視窗程式設計第6次作業_4105056021_賴怡呈.MyForm1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly 視窗程式設計第6次作業_4105056021_賴怡呈, Version=1.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class 視窗程式設計第6次作業_4105056021_賴怡呈.addmoney: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.ValueType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox textBox2 : Public
+    System.Windows.Forms.NumericUpDown numericUpDown1 : Public
+Class 視窗程式設計第6次作業_4105056021_賴怡呈.move: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.ValueType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox textBox1 : Public
+    System.Windows.Forms.NumericUpDown numericUpDown1 : Public
+Class 視窗程式設計第6次作業_4105056021_賴怡呈.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.ValueType player Int32 IsBoxed : Public
+    System.String hou1 : Public
+    System.String hou2 : Public
+    System.String hou3 : Public
+    System.ValueType j Int32 IsBoxed : Public
+    System.ValueType k Int32 IsBoxed : Public
+    System.ValueType u Int32 IsBoxed : Public
+    System.ValueType turn Int32 IsBoxed : Public
+    System.ValueType check Int32 IsBoxed : Public
+    System.String s : Public
+    System.String path : Public
+    System.String yorn : Public
+    System.String name : Public
+    System.ValueType dice Int32 IsBoxed : Public
+    System.ValueType card Int32 IsBoxed : Public
+    System.ValueType i Int32 IsBoxed : Public
+    System.String[] user : Public
+    Int32[] st : Public
+    Int32[] m : Public
+    Int32[] l : Public
+    System.String[] sit : Public
+    Double[] money : Public
+    Int32[] nowloc : Public
+    System.String[] site : Public
+    Int32[] house1price : Public
+    Int32[] house2price : Public
+    Int32[] house3price : Public
+    Int32[] price : Public
+    Int32[] house : Public
+    Int32[] houseuser : Public
+    System.ValueType whichplayer Int32 IsBoxed : Public
+    System.ValueType addhow Double IsBoxed : Public
+    System.Windows.Forms.MenuStrip menuStrip1 : Public
+    System.String[] playername : Public
+  Methods:
+    play(ValueType Int32 IsBoxed): PrivateScope, Public, HideBySig
+Class 視窗程式設計第6次作業_4105056021_賴怡呈.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

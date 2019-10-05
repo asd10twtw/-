@@ -1,0 +1,39 @@
+﻿  stdafx.cpp
+  addmoney.cpp
+  AssemblyInfo.cpp
+  move.cpp
+  MyForm.cpp
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2468): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2903): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2904): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2914): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2454): warning C4102: 're': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2485): warning C4102: 'zero': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2638): warning C4102: 'one': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2702): warning C4102: 'two': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2764): warning C4102: 'three': 未參考的標籤
+  MyForm1.cpp
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2468): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2903): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2904): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2914): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2454): warning C4102: 're': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2485): warning C4102: 'zero': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2638): warning C4102: 'one': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2702): warning C4102: 'two': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2764): warning C4102: 'three': 未參考的標籤
+  視窗程式設計第6次作業_4105056021_賴怡呈.cpp
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2468): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2903): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2904): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2914): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2454): warning C4102: 're': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2485): warning C4102: 'zero': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2638): warning C4102: 'one': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2702): warning C4102: 'two': 未參考的標籤
+c:\users\asd10\documents\visual studio 2015\projects\視窗程式設計第6次作業_4105056021_賴怡呈\視窗程式設計第6次作業_4105056021_賴怡呈\MyForm1.h(2764): warning C4102: 'three': 未參考的標籤
+  正在產生程式碼...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  addmoney.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
+  視窗程式設計第6次作業_4105056021_賴怡呈.vcxproj -> C:\Users\asd10\Documents\Visual Studio 2015\Projects\視窗程式設計第6次作業_4105056021_賴怡呈\Debug\視窗程式設計第6次作業_4105056021_賴怡呈.exe
+  視窗程式設計第6次作業_4105056021_賴怡呈.vcxproj -> C:\Users\asd10\Documents\Visual Studio 2015\Projects\視窗程式設計第6次作業_4105056021_賴怡呈\Debug\視窗程式設計第6次作業_4105056021_賴怡呈.pdb (Partial PDB)
